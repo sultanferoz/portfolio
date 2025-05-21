@@ -43,12 +43,12 @@ export default function Home() {
             Hello There!
           </div>
           <h1 className="text-5xl font-bold">
-            I'm <span className="text-[#FFA500]">Sultan Feroz</span>
+            I am <span className="text-[#FFA500]">Sultan Feroz</span>
           </h1>
           <h2 className="text-3xl font-bold">Front End Engineer </h2>
           <h3 className="text-2xl font-bold">Based in GB Pakistan.</h3>
           <p className="text-gray-600 max-w-md">
-            I'm an experienced Engineer with 3+ years in Front End Development,
+            I am an experienced Engineer with 3+ years in Front End Development,
             collaborating with various companies and startups.
           </p>
           <div className="flex gap-4">
