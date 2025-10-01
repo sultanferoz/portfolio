@@ -52,9 +52,9 @@ export default function Home() {
             collaborating with various companies and startups.
           </p>
           <div className="flex gap-4">
-            <button className="btn-primary">
+             <a href="/cv.pdf" download className="btn-primary">
               View My Portfolio <ArrowRight size={20} />
-            </button>
+            </a>
             <button className="btn-secondary">Hire Me</button>
           </div>
         </div>
